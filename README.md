@@ -55,7 +55,7 @@ Example for begin
 
 | Parameter | Return     | Description                |
 | :-------- | :------- | :------------------------- |
-| `Username , ExpireDate , $UsageMax , $Port` | `bool` |**Required** : `Username` , `ExpireDate`  - Create Vless Or Vmess Protocol With WebSocket Transsmation|
+| `Username , ExpireDate , UsageMax , Port` | `bool` |**Required** : `Username` , `ExpireDate`  - Create Vless Or Vmess Protocol With WebSocket Transsmation|
 
 
 
